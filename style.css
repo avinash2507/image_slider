@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    background-color: wheat;
+    /* background-color: wheat; */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -15,7 +15,7 @@ body{
     border-radius: 10px;
 }
 .image-container{
-display: flex;
+    display: flex;
 transition: transform .6s ease-in-out;
 }
 .btn{ 
